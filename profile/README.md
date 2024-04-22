@@ -1,6 +1,6 @@
 <div align="center">
 
-### 2024년 상반기 소프트웨어 경진대회 출품작 <br/> Team Gurdening, <b>Gurdening Service</b> FrontEnd
+### 2024년 상반기 소프트웨어 경진대회 출품작 <br/> Team Gurdening, <b>Gurdening Service</b>
 
 <i><b>2023. 1. 28 ~ 2024. 04. 08</b></i>
 <br/><br/>
